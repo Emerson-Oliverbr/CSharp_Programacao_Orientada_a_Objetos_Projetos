@@ -1,0 +1,14 @@
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/bin/Debug/net8.0/PessoaMaisVelha
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/bin/Debug/net8.0/PessoaMaisVelha.deps.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/bin/Debug/net8.0/PessoaMaisVelha.runtimeconfig.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/bin/Debug/net8.0/PessoaMaisVelha.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/bin/Debug/net8.0/PessoaMaisVelha.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/obj/Debug/net8.0/PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/obj/Debug/net8.0/PessoaMaisVelha.AssemblyInfoInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/obj/Debug/net8.0/PessoaMaisVelha.AssemblyInfo.cs
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/obj/Debug/net8.0/PessoaMaisVelha.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/obj/Debug/net8.0/PessoaMaisVelha.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/obj/Debug/net8.0/refint/PessoaMaisVelha.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/obj/Debug/net8.0/PessoaMaisVelha.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/obj/Debug/net8.0/PessoaMaisVelha.genruntimeconfig.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/PessoaMaisVelha/PessoaMaisVelha/obj/Debug/net8.0/ref/PessoaMaisVelha.dll

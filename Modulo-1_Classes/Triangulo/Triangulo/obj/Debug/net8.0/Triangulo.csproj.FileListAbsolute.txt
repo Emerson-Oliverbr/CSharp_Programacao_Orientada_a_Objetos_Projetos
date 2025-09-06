@@ -1,0 +1,14 @@
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/bin/Debug/net8.0/Triangulo
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/bin/Debug/net8.0/Triangulo.deps.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/bin/Debug/net8.0/Triangulo.runtimeconfig.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/bin/Debug/net8.0/Triangulo.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/bin/Debug/net8.0/Triangulo.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/Triangulo.AssemblyInfoInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/Triangulo.AssemblyInfo.cs
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/Triangulo.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/Triangulo.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/refint/Triangulo.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/Triangulo.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/Triangulo.genruntimeconfig.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/ref/Triangulo.dll
