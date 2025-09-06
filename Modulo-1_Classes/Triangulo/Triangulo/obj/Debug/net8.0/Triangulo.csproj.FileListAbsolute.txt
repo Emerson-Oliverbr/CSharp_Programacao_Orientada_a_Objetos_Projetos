@@ -12,3 +12,4 @@
 /home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/Triangulo.pdb
 /home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/Triangulo.genruntimeconfig.cache
 /home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/ref/Triangulo.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Triangulo/Triangulo/obj/Debug/net8.0/Triangulo.sourcelink.json
