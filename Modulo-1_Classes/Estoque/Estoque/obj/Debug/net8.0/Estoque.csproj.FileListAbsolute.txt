@@ -1,0 +1,15 @@
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/bin/Debug/net8.0/Estoque
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/bin/Debug/net8.0/Estoque.deps.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/bin/Debug/net8.0/Estoque.runtimeconfig.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/bin/Debug/net8.0/Estoque.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/bin/Debug/net8.0/Estoque.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/obj/Debug/net8.0/Estoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/obj/Debug/net8.0/Estoque.AssemblyInfoInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/obj/Debug/net8.0/Estoque.AssemblyInfo.cs
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/obj/Debug/net8.0/Estoque.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/obj/Debug/net8.0/Estoque.sourcelink.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/obj/Debug/net8.0/Estoque.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/obj/Debug/net8.0/refint/Estoque.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/obj/Debug/net8.0/Estoque.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/obj/Debug/net8.0/Estoque.genruntimeconfig.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Estoque/Estoque/obj/Debug/net8.0/ref/Estoque.dll
