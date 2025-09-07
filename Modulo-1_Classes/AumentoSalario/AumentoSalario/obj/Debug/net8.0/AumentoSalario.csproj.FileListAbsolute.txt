@@ -1,0 +1,15 @@
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/bin/Debug/net8.0/AumentoSalario
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/bin/Debug/net8.0/AumentoSalario.deps.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/bin/Debug/net8.0/AumentoSalario.runtimeconfig.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/bin/Debug/net8.0/AumentoSalario.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/bin/Debug/net8.0/AumentoSalario.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/obj/Debug/net8.0/AumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/obj/Debug/net8.0/AumentoSalario.AssemblyInfoInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/obj/Debug/net8.0/AumentoSalario.AssemblyInfo.cs
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/obj/Debug/net8.0/AumentoSalario.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/obj/Debug/net8.0/AumentoSalario.sourcelink.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/obj/Debug/net8.0/AumentoSalario.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/obj/Debug/net8.0/refint/AumentoSalario.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/obj/Debug/net8.0/AumentoSalario.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/obj/Debug/net8.0/AumentoSalario.genruntimeconfig.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/AumentoSalario/AumentoSalario/obj/Debug/net8.0/ref/AumentoSalario.dll

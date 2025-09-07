@@ -1,0 +1,15 @@
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/bin/Debug/net8.0/BoletimEscolar
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/bin/Debug/net8.0/BoletimEscolar.deps.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/bin/Debug/net8.0/BoletimEscolar.runtimeconfig.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/bin/Debug/net8.0/BoletimEscolar.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/bin/Debug/net8.0/BoletimEscolar.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/obj/Debug/net8.0/BoletimEscolar.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/obj/Debug/net8.0/BoletimEscolar.AssemblyInfoInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/obj/Debug/net8.0/BoletimEscolar.AssemblyInfo.cs
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/obj/Debug/net8.0/BoletimEscolar.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/obj/Debug/net8.0/BoletimEscolar.sourcelink.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/obj/Debug/net8.0/BoletimEscolar.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/obj/Debug/net8.0/refint/BoletimEscolar.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/obj/Debug/net8.0/BoletimEscolar.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/obj/Debug/net8.0/BoletimEscolar.genruntimeconfig.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/BoletimEscolar/BoletimEscolar/obj/Debug/net8.0/ref/BoletimEscolar.dll

@@ -1,0 +1,15 @@
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/bin/Debug/net8.0/Retangulo
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/bin/Debug/net8.0/Retangulo.deps.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/bin/Debug/net8.0/Retangulo.runtimeconfig.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/bin/Debug/net8.0/Retangulo.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/bin/Debug/net8.0/Retangulo.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/obj/Debug/net8.0/Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/obj/Debug/net8.0/Retangulo.AssemblyInfoInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/obj/Debug/net8.0/Retangulo.AssemblyInfo.cs
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/obj/Debug/net8.0/Retangulo.csproj.CoreCompileInputs.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/obj/Debug/net8.0/Retangulo.sourcelink.json
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/obj/Debug/net8.0/Retangulo.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/obj/Debug/net8.0/refint/Retangulo.dll
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/obj/Debug/net8.0/Retangulo.pdb
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/obj/Debug/net8.0/Retangulo.genruntimeconfig.cache
+/home/emerson-oliveira/CSharp Completo/Modulo-1_Classes/Retangulo/Retangulo/obj/Debug/net8.0/ref/Retangulo.dll
