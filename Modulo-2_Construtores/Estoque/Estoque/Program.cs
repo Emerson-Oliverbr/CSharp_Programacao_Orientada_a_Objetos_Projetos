@@ -9,11 +9,9 @@ internal class Program
         Console.Write("Nome: ");
         string nome = Console.ReadLine();
         Console.Write("Preco unitário: ");
-        double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-        Console.Write("Quantidade no estoque: ");
-        int quantidade = int.Parse(Console.ReadLine());
+        double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);       
 
-        Produto produto = new Produto(nome, preco, quantidade);
+        Produto produto = new Produto(nome, preco);
 
         Console.WriteLine($"Dados do produto: {produto}");
         Console.Write("Digite o número de produtos a ser adicionados do estoque: ");
