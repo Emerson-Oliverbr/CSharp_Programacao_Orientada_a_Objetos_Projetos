@@ -22,23 +22,26 @@ public class Produto
         _quantidade = quantidade;      
     }
 
-    public string GetNome()
+    public string Nome
     {
-        return _nome;
-    }
-
-    public void SetNome(string nome)
-    {
-        if(nome != null && nome.Length > 2)
+        get { return _nome; }
+        set
         {
-            _nome = nome;
+            if (value != null && value.Length > 2)
+            {
+                _nome = value;
+            }
         }
-        
+    }  
+
+    public double Preco
+    {
+        get { return _preco; }        
     }
 
-    public double GetPreco()
+    public int Quantidade
     {
-        return _preco;
+        get { return _quantidade; } 
     }
 
     public double ValorTotalEmEstoque()

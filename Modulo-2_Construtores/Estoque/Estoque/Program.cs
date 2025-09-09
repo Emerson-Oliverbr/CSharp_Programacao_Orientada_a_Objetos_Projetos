@@ -7,10 +7,10 @@ internal class Program
     {
         Produto produto = new Produto("Desktop", 1000.00, 10);
 
-        produto.SetNome("TV");
+        produto.Nome = "TV-4K";
 
-        Console.WriteLine(produto.GetNome());
-
+        Console.WriteLine(produto.Nome);
+        Console.WriteLine(produto.Preco);
 
         /*
         Console.WriteLine("Entre com os dados do Produto: ");
