@@ -5,6 +5,14 @@ internal class Program
 {
     static void Main(string[] args)
     {
+        Produto produto = new Produto("Desktop", 1000.00, 10);
+
+        produto.SetNome("TV");
+
+        Console.WriteLine(produto.GetNome());
+
+
+        /*
         Console.WriteLine("Entre com os dados do Produto: ");
         Console.Write("Nome: ");
         string nome = Console.ReadLine();
@@ -22,5 +30,6 @@ internal class Program
         qtde = int.Parse(Console.ReadLine());
         produto.RemoverProdutos(qtde);
         Console.WriteLine($"Dados do Atualizados: {produto}");
+        */
     }
 }
