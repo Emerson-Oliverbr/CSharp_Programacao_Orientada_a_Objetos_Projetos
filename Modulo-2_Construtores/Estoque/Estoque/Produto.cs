@@ -4,22 +4,20 @@ namespace Estoque;
 public class Produto
 {
     private string? _nome;
-    private double _preco;
-    private int _quantidade;
+    public double Preco { get; private set; }
+    public int Quantidade { get; private set; }
 
-    public Produto()
-    {
-        _quantidade = 10;
+    public Produto(){       
     }
 
     public Produto(string nome, double preco) : this()
     {
         _nome = nome;
-        _preco = preco;
+        Preco = preco;
     }
     public Produto(string nome, double preco, int quantidade) : this(nome, preco)
     {
-        _quantidade = quantidade;      
+        Quantidade = quantidade;      
     }
 
     public string Nome
@@ -32,40 +30,26 @@ public class Produto
                 _nome = value;
             }
         }
-    }  
-
-    public double Preco
-    {
-        get { return _preco; }        
-    }
-
-    public int Quantidade
-    {
-        get { return _quantidade; } 
-    }
+    }     
 
     public double ValorTotalEmEstoque()
     {
-        return _preco * _quantidade;
+        return Preco * Quantidade;
     }
-
-    public int GetQuantidade()
-    {
-        return _quantidade;
-    }
+    
 
     public void AdicionarProdutos(int quantidade)
     {
-        _quantidade += quantidade;
+        Quantidade += quantidade;
     }
 
     public void RemoverProdutos(int quantidade)
     {
-        _quantidade -= quantidade;
+        Quantidade -= quantidade;
     }
 
     public override string ToString()
     {
-        return $"{_nome}, R$ {_preco.ToString("F2", CultureInfo.InvariantCulture)}, {_quantidade} unidades, Total: R$ {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
+        return $"{_nome}, R$ {Preco.ToString("F2", CultureInfo.InvariantCulture)}, {Quantidade} unidades, Total: R$ {ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture)}";
     }
 }
